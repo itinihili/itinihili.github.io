@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itinihili.github.io/sitemap
+Sitemap: https://itinihili.github.io/app/sitemap
+Sitemap: https://itinihili.github.io/assets/sitemap
+Sitemap: https://itinihili.github.io/css/sitemap
+Sitemap: https://itinihili.github.io/includes/sitemap
+Sitemap: https://itinihili.github.io/item/sitemap
+Sitemap: https://itinihili.github.io/src/sitemap
